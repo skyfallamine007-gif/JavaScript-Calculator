@@ -10,7 +10,7 @@ body{
 }
 h1 span{
     display: inline-block;  
-    color: yellow !important;  
+    color: yellow ;  
     animation: bounce 1s ease-in-out infinite;
 }
 @keyframes bounce {
@@ -83,6 +83,4 @@ background-color:rgb(161, 157, 161);
 }
 .operator-btn:hover{
 background-color:#097de3;
-
 }
-
