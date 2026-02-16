@@ -3,7 +3,7 @@ body{
     justify-content: center;
     margin: 0;
     flex-direction: column;
-    gap: 30px;
+    gap: 10px;
     align-items: center;
     height: 100vh;
     background-image: url(simple1.avif);
@@ -85,3 +85,4 @@ background-color:rgb(161, 157, 161);
 background-color:#097de3;
 
 }
+
